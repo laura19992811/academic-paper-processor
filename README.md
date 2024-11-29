@@ -37,7 +37,7 @@ A document processing pipeline that leverages LangGraph, Large Language Models, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/academic-paper-processor
+git clone https://github.com/laura19992811/academic-paper-processor.git
 cd academic-paper-processor
 ```
 
