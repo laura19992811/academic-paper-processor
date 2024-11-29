@@ -129,7 +129,7 @@ academic-paper-processor/
 
 ## Authors
 
-Laura Daniela Torralba Garcia - [YourGithub](https://github.com/laura19992811)
+Laura Daniela Torralba Garcia - [Github](https://github.com/laura19992811)
 
 ## Acknowledgments
 
