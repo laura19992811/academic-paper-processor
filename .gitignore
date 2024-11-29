@@ -7,7 +7,7 @@
 scratchbook.py
 
 #ignore secrets
-secrets.toml
+#secrets.toml
 
 # Ignore venv
 ./venv
