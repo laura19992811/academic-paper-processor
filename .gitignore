@@ -1,0 +1,23 @@
+# Ignore local pdf
+./data
+*.pdf
+*.txt
+
+# Ignore scratch
+scratchbook.py
+
+#ignore secrets
+secrets.toml
+
+# Ignore venv
+./venv
+
+# Ignore IDE
+.idea/
+.pytest_cache
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
